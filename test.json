@@ -1,6 +1,1 @@
-[
-    {"id":"4","description":"GitHub Message 10:52","price":"99","old_price":"14","image_url":"ll.png"},
-    {"id":"3","description":"rrrrr","price":"99","old_price":"14","image_url":"ll.png"},
-    {"id":"2","description":"text","price":"20","old_price":"500","image_url":"yy.png"},
-    {"id":"1","description":"description","price":"100","old_price":"50","image_url":"rr.png"}
-]
+{"sections":[{"title":null,"rank":5,"content":[]},{"title":null,"rank":6,"content":[]},{"title":null,"rank":7,"content":[]},{"title":null,"rank":8,"content":[]},{"title":"***--964","rank":9,"content":[]},{"title":"hamzh","rank":10,"content":[]},{"title":"tt","rank":11,"content":[]}],"offers":[{"title":"","description":"","price":"","old_price":"","groups":["3",0,0,0,0],"colors":["red","","","",""]},{"title":"\u0633\u0627\u0639\u0627\u062a","description":"\u0633\u0627\u0639\u0627\u062a \u064a\u062f","price":"120","old_price":"170","groups":["4",0,0,0,0],"colors":["red","","","",""]},{"title":"\u062c\u0627\u0643\u064a\u062a\ud83d\ude0e","description":"\u062c\u0627\u0643\u064a\u062a \u0634\u062a\u0648\u064a ","price":"\u0665\u0667","old_price":"\u0668\u0669","groups":["4",0,0,0,0],"colors":["red","","","",""]},{"title":"\u062a\u0634\u0643\u064a\u0644\u0629","description":"\u062a\u0634\u0643\u064a\u0644\u0629 \u0645\u0646\u0648\u0639\u0629","price":" \u0664\u0665","old_price":"79","groups":["12",0,0,0,0],"colors":["red","","","",""]}],"sections_id":11,"offers_id":24}
